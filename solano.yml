@@ -8,4 +8,4 @@ tests:
   - npm test --cover
 collect:
   repo:
-    - coverage/lcov.info
+    - build/coverage/coverage.json
