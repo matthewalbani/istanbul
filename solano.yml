@@ -9,3 +9,6 @@ tests:
 collect:
   repo:
     - build/coverage/coverage.json
+coverage:
+  version: 2
+  enabled: true
