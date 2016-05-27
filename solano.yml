@@ -1,0 +1,9 @@
+hooks:
+  pre: npm install
+nodejs:
+  version: '0.12.4'
+tests:
+  - npm test --cover
+collect:
+  repo:
+    - coverage/lcov.info
