@@ -1,5 +1,7 @@
 hooks:
   pre: npm install
+phantomjs:
+  version: '1.7.0'
 nodejs:
   version: '0.12.4'
 tests:
